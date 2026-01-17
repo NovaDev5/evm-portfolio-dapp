@@ -231,7 +231,3 @@ Contributions are welcome. Please open issues for bugs or feature requests. To c
 This repository currently does not include a license file. Add an appropriate LICENSE if you plan to share or use the code in other projects.
 
 ---
-
-If you want, I can:
-- Provide a patched backend.js that returns the structured JSON (tokens + totalUsdValue) and a matching frontend change in getWalletTokens.js.
-- Create a Docker Compose example to run both services locally.
